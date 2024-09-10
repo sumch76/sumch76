@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React.js and backend**
 
-- 👨‍💻 All of my projects are available at [portfolio-eight-delta-73.vercel.app](portfolio-eight-delta-73.vercel.app)
+- 👨‍💻 All of my projects are available at [portfolio-eight-delta-73.vercel.app](https://portfolio-sumit-chaubeys-projects.vercel.app/)
 
 - 📫 How to reach me **sumitchaubey76@gmail.com**
 
